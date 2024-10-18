@@ -16,7 +16,7 @@ Sismic Interactive Statechart Model Interpreter and Checker
 *Sismic* is a recursive acronym that stands for *Sismic Interactive Statechart Model Interpreter and Checker*.
 
 Statecharts are a well-known visual modeling language for representing the executable behavior
-of complex reactive event-based systems. Sismic library for Python (version 3.6 or higher) provides a set of
+of complex reactive event-based systems. Sismic library for Python provides a set of
 tools to define, validate, simulate, execute and test statecharts.
 More specifically, Sismic provides:
 
